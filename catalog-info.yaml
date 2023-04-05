@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "sohel-react-sam-rub"
+  description: "dd"
+  annotations:
+    github.com/project-slug: sohemokashi/sohelaccnbackstagenodejs1dddsopp
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: website
+  lifecycle: experimental
+  owner: "guests"
